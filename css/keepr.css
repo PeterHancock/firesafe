@@ -2,6 +2,10 @@ body {
     background: #000;
 }
 
+#info {
+    color: #555;
+}
+
 #terminal {
     height: 1000px;
 }
