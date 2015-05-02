@@ -30,3 +30,13 @@ body {
     height: 100px;
     display:none;
 }
+
+
+// Overrides
+.terminal div{
+    margin-bottom: 10px;
+}
+
+.terminal-output, .cmd{
+    font-size: 1.5em !important;
+}
